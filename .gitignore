@@ -1,0 +1,14 @@
+**/*.lck
+**/*-backups/
+**/*.kicad_prl
+**/*-cache
+**/*.bkp
+**/*#auto_saved_files#
+**/.dep/
+**/.cache/
+**/build/
+**/.clangd
+**/compile_commands.json
+**/.DS_Store
+**/.vscode
+.history/
